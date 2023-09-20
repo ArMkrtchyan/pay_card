@@ -1,0 +1,84 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"armneon2x86sse/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 39,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 44,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 49,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include",
+			"paths" : 
+			[
+				"armneon2x86sse/NEON_2_SSE.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/NEON_2_SSE",
+			"paths" : 
+			[
+				"C:/Users/arshak.mkrtchyan/Music/PayCards_Android/sdk/.cxx/Release/6z5nx396/armeabi-v7a/armneon2x86sse/generated/NEON_2_SSEConfig.cmake",
+				"C:/Users/arshak.mkrtchyan/Music/PayCards_Android/sdk/.cxx/Release/6z5nx396/armeabi-v7a/armneon2x86sse/generated/NEON_2_SSEConfigVersion.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/NEON_2_SSE",
+			"exportName" : "NEON_2_SSETargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "NEON_2_SSE::@bb913b2dad75973cc0e7",
+					"index" : 0
+				}
+			],
+			"paths" : 
+			[
+				"armneon2x86sse/CMakeFiles/Export/lib/cmake/NEON_2_SSE/NEON_2_SSETargets.cmake"
+			],
+			"type" : "export"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "armneon2x86sse",
+		"source" : "armneon2x86sse"
+	}
+}

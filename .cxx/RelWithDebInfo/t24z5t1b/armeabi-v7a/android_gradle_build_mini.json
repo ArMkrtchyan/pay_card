@@ -1,0 +1,63 @@
+{
+  "buildFiles": [
+    "C:\\Users\\arshak.mkrtchyan\\Music\\PayCards_Android\\sdk\\src\\main\\cpp\\armneon2x86sse\\cmake\\Config.cmake.in",
+    "C:\\Users\\arshak.mkrtchyan\\Music\\PayCards_Android\\sdk\\src\\main\\cpp\\armneon2x86sse\\CMakeLists.txt",
+    "C:\\Users\\arshak.mkrtchyan\\Music\\PayCards_Android\\sdk\\src\\main\\cpp\\caffe\\CMakeLists.txt",
+    "C:\\Users\\arshak.mkrtchyan\\Music\\PayCards_Android\\sdk\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\arshak.mkrtchyan\\Music\\PayCards_Android\\sdk\\src\\main\\cpp\\crossplatform\\CMakeLists.txt",
+    "C:\\Users\\arshak.mkrtchyan\\Music\\PayCards_Android\\sdk\\src\\main\\cpp\\eigen\\CMakeLists.txt",
+    "C:\\Users\\arshak.mkrtchyan\\Music\\PayCards_Android\\sdk\\src\\main\\cpp\\libyuv\\CMakeLists.txt",
+    "C:\\Users\\arshak.mkrtchyan\\Music\\PayCards_Android\\sdk\\src\\main\\cpp\\opencv2\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVConfig.cmake",
+    "C:\\Users\\arshak.mkrtchyan\\Music\\PayCards_Android\\sdk\\src\\main\\cpp\\opencv2\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVModules-release.cmake",
+    "C:\\Users\\arshak.mkrtchyan\\Music\\PayCards_Android\\sdk\\src\\main\\cpp\\opencv2\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVModules.cmake",
+    "C:\\Users\\arshak.mkrtchyan\\Music\\PayCards_Android\\sdk\\src\\main\\cpp\\opencv2\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "C:\\Users\\arshak.mkrtchyan\\Music\\PayCards_Android\\sdk\\src\\main\\cpp\\opencv2\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "C:\\Users\\arshak.mkrtchyan\\Music\\PayCards_Android\\sdk\\src\\main\\cpp\\protobuf\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\arshak.mkrtchyan\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\arshak.mkrtchyan\\Music\\PayCards_Android\\sdk\\.cxx\\RelWithDebInfo\\t24z5t1b\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\arshak.mkrtchyan\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\arshak.mkrtchyan\\Music\\PayCards_Android\\sdk\\.cxx\\RelWithDebInfo\\t24z5t1b\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "crossplatform::@b9a1f165c54769997590": {
+      "artifactName": "crossplatform",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\arshak.mkrtchyan\\Music\\PayCards_Android\\sdk\\.cxx\\RelWithDebInfo\\t24z5t1b\\armeabi-v7a\\crossplatform\\libcrossplatform.a",
+      "runtimeFiles": []
+    },
+    "cardrecognizer::@6890427a1f51a3e7e1df": {
+      "artifactName": "cardrecognizer",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\arshak.mkrtchyan\\Music\\PayCards_Android\\sdk\\build\\intermediates\\cxx\\RelWithDebInfo\\t24z5t1b\\obj\\armeabi-v7a\\libcardrecognizer.so",
+      "runtimeFiles": []
+    },
+    "caffe::@2523b2355a9c624e6887": {
+      "artifactName": "caffe",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\arshak.mkrtchyan\\Music\\PayCards_Android\\sdk\\.cxx\\RelWithDebInfo\\t24z5t1b\\armeabi-v7a\\caffe\\libcaffe.a",
+      "runtimeFiles": []
+    },
+    "libyuv::@65971e152f36faa1b30f": {
+      "artifactName": "libyuv",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\arshak.mkrtchyan\\Music\\PayCards_Android\\sdk\\.cxx\\RelWithDebInfo\\t24z5t1b\\armeabi-v7a\\libyuv\\liblibyuv.a",
+      "runtimeFiles": []
+    },
+    "protobuf::@c0ae8b21a12d2531c79c": {
+      "artifactName": "protobuf",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\arshak.mkrtchyan\\Music\\PayCards_Android\\sdk\\.cxx\\RelWithDebInfo\\t24z5t1b\\armeabi-v7a\\protobuf\\libprotobuf.a",
+      "runtimeFiles": []
+    }
+  }
+}

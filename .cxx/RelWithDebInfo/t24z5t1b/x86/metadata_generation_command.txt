@@ -1,0 +1,19 @@
+                        -HC:\Users\arshak.mkrtchyan\Music\PayCards_Android\sdk\src\main\cpp
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=21
+-DANDROID_PLATFORM=android-21
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=C:\Users\arshak.mkrtchyan\AppData\Local\Android\Sdk\ndk\25.2.9519653
+-DCMAKE_ANDROID_NDK=C:\Users\arshak.mkrtchyan\AppData\Local\Android\Sdk\ndk\25.2.9519653
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\arshak.mkrtchyan\AppData\Local\Android\Sdk\ndk\25.2.9519653\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\arshak.mkrtchyan\AppData\Local\Android\Sdk\cmake\3.22.1\bin\ninja.exe
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\arshak.mkrtchyan\Music\PayCards_Android\sdk\build\intermediates\cxx\RelWithDebInfo\t24z5t1b\obj\x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\Users\arshak.mkrtchyan\Music\PayCards_Android\sdk\build\intermediates\cxx\RelWithDebInfo\t24z5t1b\obj\x86
+-DCMAKE_BUILD_TYPE=RelWithDebInfo
+-BC:\Users\arshak.mkrtchyan\Music\PayCards_Android\sdk\.cxx\RelWithDebInfo\t24z5t1b\x86
+-GNinja
+-DANDROID_STL=c++_shared
+                        Build command args: []
+                        Version: 2
